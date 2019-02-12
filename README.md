@@ -1,2 +1,2 @@
 # med-imagic
-dApp for electronic health records
+building a dApp for electronic health records
